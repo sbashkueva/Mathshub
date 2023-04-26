@@ -5,5 +5,5 @@ The city administration has decided to optimize the number of schools in the are
 # Cut-off score
 The task is to find the cut-off total score for 3 exams for applicants. As an input we have *n* available spots for students and a list of applicants with scores for 3 exams. If one of the exam is scored less than 40, this applicant can not be accepted.
 
-# Sorting algorythms
+# Sorting algorithms
 Implementation of bubble sort, selection sort in Python.
