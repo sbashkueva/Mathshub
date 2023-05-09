@@ -9,4 +9,4 @@ The task is to find the cut-off total score for 3 exams for applicants. As an in
 Implementation of bubble sort, selection sort, quick sort, counting sort in Python.
 
 # Object-orienting programming
-Implementing class Matrix using OOP. Supported operations: Transforming matrix to string, Addition, Transposition, Scalar Multiplication of matrices.
+Implementing class Matrix using OOP. Supported operations: Transforming matrix to string, Addition, Transposition, Scalar Multiplication.
